@@ -1,0 +1,29 @@
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-image: linear-gradient(to right,#EF9C07,#FFC000,#FFBB00,#FFD900,#FFE000,#FFFF00);
+}
+main{
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px black;
+    width: 600px;
+    padding: 100px;
+    margin: auto;
+}
+h1{
+    color: #cc8e07;
+}
+h2{
+    color: #cc8e07;
+}
+p{text-align: justify;}
+h3{
+    color: #0f24df;
+}
+a{
+    color: #0f24df  
+}
+li{ color: #0f24df}
